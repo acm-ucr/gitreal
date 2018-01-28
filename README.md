@@ -13,3 +13,5 @@ People who can git with the flow:
 * Moses Park was here
 * Mina
 * Aaroh Mankad
+* Cameron Morin whispers "Im scared of commit-ment"
+
